@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenido a mi Perfil :round_pushpin: <iframe src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">via GIPHY</a> </p></h1>
+<h1 align="center">Bienvenido a mi Perfil :round_pushpin: </h1>
 <img src="https://media.licdn.com/dms/image/D4D16AQEUkqHE95ZAkQ/profile-displaybackgroundimage-shrink_350_1400/0/1701179372940?e=1707350400&v=beta&t=9VgWm6o3dR13j0E2kVb_08X7TZWtNUAxR4slxv_lN5o" alt="Banner">
 <h3 align="center">My name is Ronald</h3>
 <h3 align="center">A frontend developer passionate about exploring and improving my skills.</h3>
