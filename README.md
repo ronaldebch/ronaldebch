@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">Welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://media.licdn.com/dms/image/D4D16AQEUkqHE95ZAkQ/profile-displaybackgroundimage-shrink_350_1400/0/1701179372940?e=1707350400&v=beta&t=9VgWm6o3dR13j0E2kVb_08X7TZWtNUAxR4slxv_lN5o" alt="Banner">
 <h3 align="center">My name is Ronald</h3>
 <h3 align="center">A frontend developer passionate about exploring and improving my skills.</h3>
 
-<h1 align="center">My name is Ronald<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
