@@ -14,9 +14,10 @@
 <h3 align="center">A frontend developer passionate about exploring and improving my skills.</h3>
 
 
-<--- Generador de texto --->
+<!--- Generador de texto --->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=FFA500&size=30&lines=My+name+is+Ronald%2C+A+frontend+developer+passionate+about+exploring+and+improving+my+skills.)](https://git.io/typing-svg)
+
 
 
 
