@@ -17,10 +17,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=0000FF&size=30&lines=Mi+nombre+es+Ronald;Un+Desarrollador+de+Frontend;Apasionado+por+explorar;y+mejorar+cada+d%C3%ADa." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&lines=Mi+nombre+es+Ronald;Un+Desarrollador+de+Frontend;Apasionado+por+explorar;y+mejorar+cada+d%C3%ADa." alt="Typing SVG">
   </a>
 </p>
-
 
 
 
