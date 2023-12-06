@@ -1,6 +1,7 @@
 <h1 align="center">Bienvenido a mi Perfil :round_pushpin: </h1>
 
-<p><a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">via GIPHY</a></p>
+[![Hola](https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif)](https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13)
+
 
 
 <img src="https://media.licdn.com/dms/image/D4D16AQEUkqHE95ZAkQ/profile-displaybackgroundimage-shrink_350_1400/0/1701179372940?e=1707350400&v=beta&t=9VgWm6o3dR13j0E2kVb_08X7TZWtNUAxR4slxv_lN5o" alt="Banner">
