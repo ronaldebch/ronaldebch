@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenido a mi Perfil :round_pushpin: <div style="margin-top: 20px;">
+<h1 align="center">Bienvenido a mi Perfil :round_pushpin: 
   <a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">
     <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="Hola" width="100" height="100">
   </a>
