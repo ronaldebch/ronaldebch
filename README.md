@@ -3,7 +3,7 @@
 <h3 align="center">My name is Ronald</h3>
 <h3 align="center">A frontend developer passionate about exploring and improving my skills.</h3>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=red-green)
 
 
 
