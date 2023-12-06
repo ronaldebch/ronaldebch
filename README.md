@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Bienvenido a mi Perfil :round_pushpin: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://media.licdn.com/dms/image/D4D16AQEUkqHE95ZAkQ/profile-displaybackgroundimage-shrink_350_1400/0/1701179372940?e=1707350400&v=beta&t=9VgWm6o3dR13j0E2kVb_08X7TZWtNUAxR4slxv_lN5o" alt="Banner">
 <h3 align="center">My name is Ronald</h3>
 <h3 align="center">A frontend developer passionate about exploring and improving my skills.</h3>
