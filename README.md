@@ -7,62 +7,7 @@
 </div> </h1>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Efecto de escritura</title>
-  <style>
-    #text {
-      overflow: hidden;
-      white-space: nowrap;
-      border-right: 2px solid #000; /* Estilo del cursor parpadeante */
-      animation: typing 4s steps(40, end), blink-caret 0.5s step-end infinite;
-    }
-
-    @keyframes typing {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-
-    @keyframes blink-caret {
-      from, to {
-        border-color: transparent;
-      }
-      50% {
-        border-color: #000;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div id="text-container">
-    <p id="text"></p>
-  </div>
-
-  <script>
-    const text = "My name is Ronald\nA frontend developer passionate about exploring and improving my skills.";
-    const textContainer = document.getElementById("text");
-
-    let index = 0;
-
-    function type() {
-      textContainer.textContent = text.slice(0, index);
-
-      if (index < text.length) {
-        index++;
-        setTimeout(type, 50); // Velocidad de escritura
-      }
-    }
-
-    // Comienza la animación al cargar la página
-    window.onload = type;
-  </script>
-</body>
-</html>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=My+name+is+Ronald;A+frontend+developer+passionate+about+exploring+and+improving+my+skills.)](https://git.io/typing-svg)
 
 
 
