@@ -5,15 +5,10 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF0000;">Bienvenido :round_pushpin: 
   <a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">
     <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="Hola" width="100" height="100">
+
 <img src="https://media.licdn.com/dms/image/D4D16AQEUkqHE95ZAkQ/profile-displaybackgroundimage-shrink_350_1400/0/1701179372940?e=1707350400&v=beta&t=9VgWm6o3dR13j0E2kVb_08X7TZWtNUAxR4slxv_lN5o" alt="Banner">
   </a>
 </h1>
-
-
-
-
-<!--- Banner --->
-<img src="https://media.licdn.com/dms/image/D4D16AQEUkqHE95ZAkQ/profile-displaybackgroundimage-shrink_350_1400/0/1701179372940?e=1707350400&v=beta&t=9VgWm6o3dR13j0E2kVb_08X7TZWtNUAxR4slxv_lN5o" alt="Banner">
 
 
 
