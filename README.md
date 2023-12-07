@@ -43,6 +43,7 @@
 <!---Seguidores de Github --->
 <p align="center">
     <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007">
 </p>
 
 
