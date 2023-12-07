@@ -71,7 +71,6 @@
 </div>
 
 <br>
-<br>
 
 <!--CONTACTO -->
 <div align="center">
