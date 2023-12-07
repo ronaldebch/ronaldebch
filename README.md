@@ -23,7 +23,11 @@
 
 
 <!---Estadisiticas --->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green">
+</p>
+
 
 
 <!---Seguidores de Github --->
