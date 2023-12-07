@@ -38,8 +38,9 @@
 <!---Imagen gif --->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Nombre del GIF" width="300">
+    <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">
 </p>
+
 
 
 
