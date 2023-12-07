@@ -29,7 +29,7 @@
 <!---Estadisiticas --->
 <div align="center">
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green)
-<div/>
+</div>
 
 <!---Seguidores de Github --->
 ![Seguidores en GitHub](https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000)
