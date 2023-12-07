@@ -45,10 +45,11 @@
 
 
 <!---Imagen gif --->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Nombre del GIF" width="300">
-</p>
-<p style="font-family: Helvetica, sans-serif;">Este es un texto con la fuente Helvetica</p>
+<div style="display: flex; justify-content: space-between;">
+    <p style="font-family: Helvetica, sans-serif;">Este es un texto con la fuente Helvetica</p>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Nombre del GIF" width="300" style="float: right;">
+</div>
+
 
 
 
