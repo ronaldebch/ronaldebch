@@ -40,9 +40,10 @@
 
 <!---Seguidores de Github Y VISITAS --->
 <div align="center">
-    <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">&emsp;&emsp;
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldebch.ronaldebch">
+    <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Suscriptores&maxAge=2592000">&emsp;&emsp;
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldebch.ronaldebch&title=Visitantes">
 </div>
+
 
 <br>
 <br>
