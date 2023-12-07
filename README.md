@@ -27,9 +27,8 @@
 
 
 <!---Estadisiticas --->
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estadísticas de GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|-------------------------------------------------------------------------------------------------|
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green) |
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green) 
 
 <!---Seguidores de Github --->
 ![Seguidores en GitHub](https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000)
