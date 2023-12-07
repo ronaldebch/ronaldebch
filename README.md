@@ -70,7 +70,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,grafana,mysql,postman,vscode,linux)](https://skillicons.dev)
 </div>
 
-<br>
 
 <!--CONTACTO -->
 <div align="center">
