@@ -35,6 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldebch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
+<br>
+<br>
+<br>
 
 <!---Seguidores de Github Y VISITAS --->
 <div align="center">
@@ -42,6 +45,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldebch.ronaldebch">
 </div>
 
+<br>
+<br>
 <br>
 
 <!---Imagen gif --->
