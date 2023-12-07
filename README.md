@@ -31,15 +31,15 @@
 
 
 <!---Seguidores de Github --->
-<div aling="center">
-![Seguidores en GitHub](https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000)
-</div>
-
-<!---Imagen gif --->
-
 <p align="center">
     <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">
 </p>
+
+
+
+<!---Imagen gif --->
+
+
 
 
 
