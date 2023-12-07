@@ -58,7 +58,8 @@
   Además, cuento con conocimientos específicos en desarrollo web, como la creación de interfaces responsivas, manejo de bases de datos y experiencia en la resolución de problemas mediante el uso de lenguajes como JavaScript, CSS, HTML. Estoy comprometido con seguir aprendiendo y actualizándome en las últimas tecnologías y metodologías de programación. Estoy emocionado por la oportunidad de contribuir con mis habilidades y conocimientos a un equipo de trabajo. ¡Espero poder discutir cómo puedo aportar valor a su empresa!
 </p>
 
-![Nombre del GIF](https://media.giphy.com/media/9366IYNrJIFZeEyiwt/giphy.gif)
+<img src="https://media.giphy.com/media/9366IYNrJIFZeEyiwt/giphy.gif" alt="Nombre del GIF" width="200">
+
 [<kbd>Ver mi CV</kbd>](https://ronaldebch.github.io/images/fulls/CV%202023.pdf)
 
 
