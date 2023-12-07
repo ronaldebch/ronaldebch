@@ -27,7 +27,7 @@
 </p>
 
 <!---Estadisiticas 2 --->
-<p aling="center">
+<p align="center">
 ![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=ronaldebch&theme=dark&hide_border=false)
 </p>
 
