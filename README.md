@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/rlg5rDvQp2Mvqp5wqq/giphy.gif" alt="Nombre del GIF" width="200">
+    <img src="https://media.giphy.com/media/JpewyeLXsu77L1ZHLk/giphy.gif" alt="Nombre del GIF" width="200">
     <br>
     <a href="https://ronaldebch.github.io/images/fulls/CV%202023.pdf"><kbd>Ver mi CV</kbd></a>
 </p>
