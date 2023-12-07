@@ -1,3 +1,6 @@
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!--- Introduccio --->
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF0000;">Bienvenido :round_pushpin: 
   <a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">
