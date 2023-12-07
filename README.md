@@ -46,7 +46,10 @@
 
 <!---Imagen gif --->
 <div style="display: flex; justify-content: space-between;">
-    <p style="font-family: Helvetica, sans-serif;">Este es un texto con la fuente Helvetica</p>
+    <p style="font-family: Helvetica, sans-serif;">Estoy en busca de mi primer empleo en sistemas y tengo un ferviente deseo de aprender. Poseo actitudes resolutivas y estoy en constante formación para mejorar mis aptitudes. Me entusiasma aprender cada día cosas nuevas sobre IT y considero que un trabajo en esta área me beneficiaría en múltiples aspectos. Tengo para ofrecer una gran disposición, constancia y un esfuerzo incansable para dar lo mejor de mí.
+
+Además, cuento con conocimientos específicos en desarrollo web, como la creación de interfaces responsivas, manejo de bases de datos y experiencia en la resolución de problemas mediante el uso de lenguajes como JavaScript, CSS, HTML. Estoy comprometido con seguir aprendiendo y actualizándome en las últimas tecnologías y metodologías de programación. Estoy emocionado por la oportunidad de contribuir con mis habilidades y conocimientos a un equipo de trabajo. ¡Espero poder discutir cómo puedo aportar valor a su empresa!"
+</p>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Nombre del GIF" width="300" style="float: right;">
 </div>
 
