@@ -38,11 +38,11 @@
 
 
 <!---Seguidores de Github Y VISITAS --->
-<p align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">
- <br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldebch.ronaldebch">
-</p>
+</div>
+
 
 
 
