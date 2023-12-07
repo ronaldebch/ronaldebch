@@ -37,7 +37,6 @@
 
 <br>
 <br>
-<br>
 
 <!---Seguidores de Github Y VISITAS --->
 <div align="center">
@@ -45,7 +44,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldebch.ronaldebch">
 </div>
 
-<br>
 <br>
 <br>
 
@@ -61,10 +59,8 @@
 </p>
 
 
-
-
-
-
+<br>
+<br>
 
 
 <!---LENGUAJE Y HERRAMIENTAS--->
@@ -73,6 +69,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,grafana,mysql,postman,vscode,linux)](https://skillicons.dev)
 </div>
+
+<br>
+<br>
+<br>
 
 
 <!--CONTACTO -->
