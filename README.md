@@ -61,7 +61,7 @@
 
 
 
-<h3 align="left">Languages y herramientas:</h3>
+<h3 align="center">Languages y herramientas:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,grafana,mysql,postman,vscode)](https://skillicons.dev)
 
