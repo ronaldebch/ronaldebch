@@ -59,6 +59,8 @@
 </p>
 
 [*Ver mi CV*](https://ronaldebch.github.io/images/fulls/CV%202023.pdf)
+[<kbd>Ver mi CV</kbd>](https://ronaldebch.github.io/images/fulls/CV%202023.pdf)
+[*Ver mi CV*](https://ronaldebch.github.io/images/fulls/CV%202023.pdf)
 
 
 
