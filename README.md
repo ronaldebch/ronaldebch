@@ -31,9 +31,9 @@
 
 
 <!---Seguidores de Github --->
-<p aling="center">
+<div aling="center">
 ![Seguidores en GitHub](https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000)
-</p>
+</div>
 
 <!---Imagen gif --->
 
