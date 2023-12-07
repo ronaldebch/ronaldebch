@@ -41,15 +41,8 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">
  <br>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldebch.ronaldebch">
 </p>
-
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://img.shields.io/github/followers/ronaldebch.svg?style=social&label=Follow&maxAge=2592000">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007">
-</div>
-
 
 
 
