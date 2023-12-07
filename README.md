@@ -26,9 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green">
 </p>
 
-
+<!---Estadisiticas 2 --->
+<p aling="center">
 ![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=ronaldebch&theme=dark&hide_border=false)
-
+</p>
 
 
 
