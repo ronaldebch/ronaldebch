@@ -26,7 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ronaldebch&theme=blue-green">
 </p>
 
-![Estadísticas de Contribuciones](https://github-contributor-stats.vercel.app/api?username=ronaldebch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=ronaldebch&theme=dark&hide_border=false)
 
 
 
