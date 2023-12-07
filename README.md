@@ -43,19 +43,24 @@
 
 
 
+<div align="center">
+  <h3>Contacto:</h3>
+  <p>
+    <a href="https://twitter.com/ronaldebch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronaldebch" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/ronald-báez-0a67511b4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ronald-báez-0a67511b4" height="30" width="40" /></a>
+    <a href="https://fb.com/https://www.facebook.com/ronaldenrique.baezchacin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ronaldenrique.baezchacin" height="30" width="40" /></a>
+    <a href="https://instagram.com/ronaldebch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronaldebch" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/@ronaldebch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ronaldebch" height="30" width="40" /></a>
+  </p>
+</div>
 
 
 
 
 
-<h3 align="left">Contacto:</h3>
-<p align="left">
-<a href="https://twitter.com/ronaldebch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronaldebch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ronald-báez-0a67511b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ronald-báez-0a67511b4" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ronaldenrique.baezchacin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ronaldenrique.baezchacin" height="30" width="40" /></a>
-<a href="https://instagram.com/ronaldebch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronaldebch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ronaldebch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ronaldebch" height="30" width="40" /></a>
-</p>
+
+
+
 
 <h3 align="left">Languages y herramientas:</h3>
 
